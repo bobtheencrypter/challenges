@@ -1,0 +1,4 @@
+I've encrypted the flag, and you'll never manage to decrypt it. I've left you
+the encrypted flag `encrypted_flag` and the source code of the program I used
+to encrypt it `encrypt.py`. I've update my old ASCII based encrypter. Can you
+decrypt the flag?
